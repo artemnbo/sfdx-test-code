@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LeadFieldSet5</fullName>
+    <description>This field set will be used in fetching the fields on Partner Registration Page.</description>
+    <displayedFields>
+        <field>Intrests__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>LeadFieldSet5</label>
+</FieldSet>

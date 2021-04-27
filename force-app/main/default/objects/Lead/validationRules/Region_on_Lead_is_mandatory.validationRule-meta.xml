@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Region_on_Lead_is_mandatory</fullName>
+    <active>true</active>
+    <errorConditionFormula>ISPICKVAL(Region__c,&quot;&quot;)</errorConditionFormula>
+    <errorDisplayField>Region__c</errorDisplayField>
+    <errorMessage>Region is mandatory</errorMessage>
+</ValidationRule>
